@@ -68,4 +68,3 @@ const numArray = [];
 for (let index = 0; index < splitNumbers.length; index +=1 ) {
   numArray.push(Number(splitNumbers[index]));
 }
-console.log(getOdds(numArray));
